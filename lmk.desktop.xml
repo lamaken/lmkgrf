@@ -1,0 +1,25 @@
+<!--
+  Finestra fin=new Finestra(30, 30, 500, 350,"Draw",1);
+             fin.enable=true;
+             fin.potresize=true;
+             fin.potmoure=true;
+             
+             
+             Finestra fin2=new Finestra(565, 30, 155, 350,"Menu",2);
+             fin2.enable=true;
+             fin2.potresize=true;
+             fin2.potmoure=true;
+             
+             Finestra fin3=new Finestra(30, 400, 690, 75,"Options",3);
+             fin3.enable=true;
+             fin3.potresize=true;
+             fin3.potmoure=true;
+-->
+<xml>
+    <desktop>
+        <finestra title="Draw">
+            <enabled>true</enabled>
+            <potresize>true</enabled>
+        </finestra>
+    </desktop>
+</xml>
